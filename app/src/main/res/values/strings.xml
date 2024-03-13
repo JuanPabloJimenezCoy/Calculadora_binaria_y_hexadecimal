@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hint_binary_number_1">Número binario 1</string>
+    <string name="hint_binary_number_2">Número binario 2</string>
+    <string name="btn_calculate">Calcular</string>
+    <string name="result_sum">Suma:</string>
+    <string name="result_sub">Resta:</string>
+
+
+</resources>
